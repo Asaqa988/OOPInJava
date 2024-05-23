@@ -2,6 +2,7 @@ package myNewPackage;
 
 public class JavaClassSumaya {
 
+	static final int finalScore = 100 ; 
 	
 	static void welcomeMsg () {
 		System.out.println("mar7ba ya 7lwen khalena nt2akd men el soot");
@@ -20,6 +21,7 @@ public class JavaClassSumaya {
 	public static void main(String[] args) {
 		
 		welcomeMsg(); 
+		 
 		
 		JavaClassSumaya Student1 = new JavaClassSumaya();
 		
